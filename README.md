@@ -151,7 +151,7 @@ Boa diversão. Ops, boa programação! :)
 ## Tela Final
 
 Veja como ficou meu aplicativo ao final
-![Aplicativo](https://github.com/fuelphp-br/fuelphp-apps/fueltelainicial.png)
+![Aplicativo com Fuel](hhttps://github.com/fuelphp-br/fuelphp-apps/blob/master/fueloriginal.png "Aplicativo com o Fuel")
 
 
 ## Testando o aplicativo cadastro
