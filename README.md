@@ -154,7 +154,7 @@ Veja como ficou meu aplicativo ao final
 ![](fueltelainicial.png)
 
 ## Tela inicial de clientes customizada
-![](clientes.png)
+![](fuelclientes.png)
 
 ## Testando o aplicativo cadastro
 
