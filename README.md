@@ -148,10 +148,13 @@ Já cairá na tela de login
 
 Boa diversão. Ops, boa programação! :)
 
-## Tela Final
+## Tela do Painel de Controle
 
 Veja como ficou meu aplicativo ao final
 ![](fueltelainicial.png)
+
+## Tela inicial de clientes customizada
+![](clientes.png)
 
 ## Testando o aplicativo cadastro
 
