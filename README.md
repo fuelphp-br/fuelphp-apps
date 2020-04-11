@@ -123,7 +123,7 @@ Performed migrations for package:auth:
 ```
 Veja as tabelas criadas.
 
-### Teremmos no admin um painel de controle com menu:
+### Teremos no admin um painel de controle com menu:
 Cadastro de Clientes Início Cliente Vendedor
 
 Acessemos
