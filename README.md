@@ -158,4 +158,4 @@ Veja como ficou meu aplicativo ao final
 
 Para testar o aplicativo criado quando elaborava este tutorial apenas faça o download deste repositório e siga as instruções aqui
 
-https://github.com/fuelphp-br/fuelphp-apps/blob/master/TESTAR.md
+[Testar](https://github.com/fuelphp-br/fuelphp-apps/blob/master/TESTAR.md)
