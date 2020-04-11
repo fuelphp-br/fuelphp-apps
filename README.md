@@ -151,7 +151,7 @@ Boa diversão. Ops, boa programação! :)
 ## Tela Final
 
 Veja como ficou meu aplicativo ao final
-![](fueloriginal.png)
+![](fueltelainicial.png)
 
 ## Testando o aplicativo cadastro
 
