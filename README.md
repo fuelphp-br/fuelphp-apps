@@ -155,9 +155,9 @@ Veja como ficou meu aplicativo ao final
 
 ## Tela inicial de clientes customizada
 ![](fuelclientes.png)
+Bem customizado: tradução, paginação, adicionei o id na lista, etc.
 
 ## Testando o aplicativo cadastro
-
 Para testar o aplicativo criado quando elaborava este tutorial apenas faça o download deste repositório e siga as instruções aqui
 
 [Testar](https://github.com/fuelphp-br/fuelphp-apps/blob/master/TESTAR.md)
